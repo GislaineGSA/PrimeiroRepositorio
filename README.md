@@ -24,7 +24,7 @@
 <br/>
 
 <p align="left">
-  <a href="https://github.com/herbertcarnaubadesouza">
+  <a href="https://github.com/GislaineGSA">
     <img src="https://img.shields.io/badge/GitHub-GislaineGSA-181717?style=for-the-badge&logo=github" />
   <a href="https://www.linkedin.com/in/gislaine-galdino-5b345347/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Gislaine Galdino-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
